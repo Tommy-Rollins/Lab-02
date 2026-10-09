@@ -29,6 +29,7 @@ library(readxl)
 
 
 # Member 3 (pair 2) write code to load File 4 data here:
+data1 <- read_csv("data/mismanaged-plastic-waste-per-capita.csv")
 
 
 
@@ -53,6 +54,7 @@ library(readxl)
 
 
 # Member 3 (pair 2) write code to join your data to 'plastic_data_all':
+plastic_data_all <- data1
 
 
 
